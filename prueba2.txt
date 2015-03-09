@@ -2,3 +2,5 @@ aaaa
 
 nuevo
 modificado
+
+modificado en ordenador
